@@ -3,9 +3,6 @@
 using namespace std;
 
 int main(){
-    cout << "Amol" << "Godse" << endl;
+    cout << "Hello" << "Wrold" << endl;
     return 0;
 }
-
-
- 
